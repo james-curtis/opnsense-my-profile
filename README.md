@@ -25,6 +25,7 @@
 |os-nrpe|Execute nagios plugins|指标收集|
 |os-ntopng|Traffic Analysis and Flow Collection|流量监控|
 |os-openconnect|OpenConnect Client||
+|os-redis|Redis DB|zenarmor会用到|
 |os-sunnyvalley|Next Generation Firewall Extensions for OPNsense (ZENARMOR)|下一代防火墙|
 |os-smart|SMART tools||
 |os-sslh|sslh configuration front-end|SSLH是一种在同一端口上接受HTTPS、SSH、OpenVPN、tinc和XMPP连接的服务|
