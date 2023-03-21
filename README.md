@@ -6,7 +6,7 @@
 |---|---|---|
 |os-bind|BIND domain name service|感觉比其他的DNS解析/转发好用，可以直接丢弃ipv6结果|
 |os-chrony|Chrony time synchronisation|比ntpd好用一些|
-|os-crowdsec|Lightweight and collaborative security engine||
+|os-crowdsec|Lightweight and collaborative security engine|轻量级IPS|
 |os-ddclient|Dynamic DNS client|DDNS|
 |os-debug|Debugging Tools|方便调试|
 |os-dmidecode|Display hardware information on the dashboard|小组件|
